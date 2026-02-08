@@ -1,0 +1,43 @@
+/* assets/css/colors.css */
+:root {
+    /* Navy/Background Colors */
+    --navy-900: #0f172a;
+    --navy-950: #020617;
+    --navy-800: #1e293b;
+
+    /* Emerald/Primary Colors */
+    --emerald-400: #34d399;
+    --emerald-500: #10b981;
+    --emerald-600: #059669;
+    --emerald-300: #6ee7b7;
+    --emerald-900: #064e3b;
+
+    /* Teal/Secondary Colors */
+    --teal-400: #2dd4bf;
+    --teal-500: #14b8a6;
+    --teal-600: #0d9488;
+    --teal-900: #134e4a;
+
+    /* Slate/Text Colors */
+    --slate-200: #e2e8f0;
+    --slate-300: #cbd5e1;
+    --slate-400: #94a3b8;
+    --slate-500: #64748b;
+    --slate-700: #334155;
+
+    /* White/Border Colors */
+    --white: #ffffff;
+    --white-5: rgba(255, 255, 255, 0.05);
+    --white-10: rgba(255, 255, 255, 0.1);
+
+    /* Status Colors */
+    --green-400: #4ade80;
+    --green-500: #22c55e;
+    --red-500: #ef4444;
+}
+
+/* Apply to body */
+body {
+    background-color: var(--navy-900);
+    color: var(--slate-200);
+}

@@ -1,0 +1,73 @@
+{
+    "header": {
+        "name": "David Orji",
+        "nav": {
+            "home": "Accueil",
+            "about": "À propos",
+            "projects": "Projets",
+            "contact": "Contact",
+            "resume": "CV"
+        }
+    },
+    "hero": {
+        "greeting": "Salut, je suis",
+        "name": "David Orji",
+        "title": "Ingénieur Logiciel",
+        "viewProjects": "Voir les Projets",
+        "viewResume": "Voir le CV"
+    },
+    "about": {
+        "title": "À Propos de Moi",
+        "bio1": "En tant qu'ingénieur logiciel axé sur les objectifs et techniquement qualifié, je suis passionné par la contribution au développement de solutions logicielles innovantes.",
+        "bio2": "Avec une expérience dans le développement d'applications Web et mobiles, j'apporte un mélange de créativité et d'expertise technique à chaque projet que j'entreprends. Je crois en l'écriture de code propre et maintenable qui fonctionne non seulement, mais qui est également un plaisir pour les autres développeurs de travailler avec.",
+        "bio3": "Mon objectif est de créer des logiciels qui non seulement répondent mais dépassent les attentes, offrant de la valeur aux utilisateurs et aux parties prenantes.",
+        "viewCertifications": "Voir les Certifications",
+        "technicalProficiency": "Compétences Techniques",
+        "certificationsTitle": "Certifications"
+    },
+    "projects": {
+        "title": "Projets en Vedette",
+        "subtitle": "Une sélection de projets qui mettent en valeur ma passion pour la construction de solutions robustes et évolutives.",
+        "viewMore": "Voir Plus",
+        "viewLess": "Voir Moins",
+        "filters": {
+            "all": "Tous",
+            "webApp": "Application Web",
+            "mobile": "Mobile",
+            "ecommerce": "E-commerce"
+        }
+    },
+    "contact": {
+        "title": "Connectons-nous",
+        "subtitle": "Je suis toujours ouvert à discuter de nouvelles opportunités, de projets intéressants ou simplement d'avoir une conversation amicale sur la technologie et le développement.",
+        "email": "Email",
+        "phone": "Téléphone",
+        "location": "Localisation",
+        "currentStatus": "Statut Actuel",
+        "available": "Disponible pour de nouveaux projets",
+        "form": {
+            "name": "Nom",
+            "email": "Email",
+            "subject": "Sujet",
+            "message": "Message",
+            "namePlaceholder": "Votre nom",
+            "emailPlaceholder": "Entrez votre adresse email",
+            "subjectPlaceholder": "De quoi s'agit-il?",
+            "messagePlaceholder": "Parlez-moi de votre projet...",
+            "submit": "Envoyer le Message",
+            "sending": "Envoi en cours...",
+            "successTitle": "Message Envoyé avec Succès!",
+            "successMessage": "Merci de m'avoir contacté! Je vous répondrai dès que possible.",
+            "sendAnother": "Envoyer un Autre Message",
+            "error": "Échec de l'envoi du message. Veuillez réessayer ou m'envoyer un email directement."
+        }
+    },
+    "footer": {
+        "brandDescription": "Développeur Full Stack créant des expériences numériques avec des technologies modernes. Axé sur la performance, l'accessibilité et l'expérience utilisateur.",
+        "connectWith": "Connectez-vous avec moi:",
+        "readBlogs": "Lisez mes blogs:",
+        "quickLinks": "Liens Rapides",
+        "techStack": "Stack Technique",
+        "rights": "Tous droits réservés."
+    }
+}

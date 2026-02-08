@@ -1,0 +1,73 @@
+{
+    "header": {
+        "name": "David Orji",
+        "nav": {
+            "home": "Home",
+            "about": "About",
+            "projects": "Projects",
+            "contact": "Contact",
+            "resume": "Resume"
+        }
+    },
+    "hero": {
+        "greeting": "Hi, I'm",
+        "name": "David Orji",
+        "title": "Software Engineer",
+        "viewProjects": "View Projects",
+        "viewResume": "View Resume"
+    },
+    "about": {
+        "title": "About Me",
+        "bio1": "As a goal-focused and technically skilled Software Engineer, I am passionate about contributing to the development of innovative software solutions.",
+        "bio2": "With a background in Web and Mobile applications development, I bring a blend of creativity and technical expertise to every project I undertake. I believe in writing clean, maintainable code that not only works but is also a joy for other developers to work with.",
+        "bio3": "My goal is to create software that not only meets but exceeds expectations, delivering value to users and stakeholders.",
+        "viewCertifications": "View Certifications",
+        "technicalProficiency": "Technical Proficiency",
+        "certificationsTitle": "Certifications"
+    },
+    "projects": {
+        "title": "Featured Projects",
+        "subtitle": "A selection of projects that showcase my passion for building robust and scalable solutions.",
+        "viewMore": "View More",
+        "viewLess": "View Less",
+        "filters": {
+            "all": "All",
+            "webApp": "Web App",
+            "mobile": "Mobile",
+            "ecommerce": "E-commerce"
+        }
+    },
+    "contact": {
+        "title": "Let's Connect",
+        "subtitle": "I'm always open to discussing new opportunities, interesting projects, or just having a friendly chat about technology and development.",
+        "email": "Email",
+        "phone": "Phone",
+        "location": "Location",
+        "currentStatus": "Current Status",
+        "available": "Available for new projects",
+        "form": {
+            "name": "Name",
+            "email": "Email",
+            "subject": "Subject",
+            "message": "Message",
+            "namePlaceholder": "Your name",
+            "emailPlaceholder": "Enter your email address",
+            "subjectPlaceholder": "What's this about?",
+            "messagePlaceholder": "Tell me about your project...",
+            "submit": "Send Message",
+            "sending": "Sending...",
+            "successTitle": "Message Sent Successfully!",
+            "successMessage": "Thank you for reaching out! I'll get back to you as soon as possible.",
+            "sendAnother": "Send Another Message",
+            "error": "Failed to send message. Please try again or email me directly."
+        }
+    },
+    "footer": {
+        "brandDescription": "Full Stack Developer building digital experiences with modern technologies. Focused on performance, accessibility, and user experience.",
+        "connectWith": "Connect with me:",
+        "readBlogs": "Read my blogs:",
+        "quickLinks": "Quick Links",
+        "techStack": "Tech Stack",
+        "rights": "All rights reserved."
+    }
+}
