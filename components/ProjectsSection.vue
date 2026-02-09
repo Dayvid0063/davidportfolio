@@ -52,6 +52,16 @@ const filterKeys = {
 const allProjects = [
     {
         id: 1,
+        title: 'Family Doctor',
+        description: 'A doctor-led, remote training program that empowers families to manage basic healthcare safely, reduce unnecessary hospital visits, and combine modern medicine with African natural remedies.',
+        image: '/assets/images/famdoc.png',
+        technologies: ['Nuxt.js', 'TypeScript', 'Pinia', 'MongoDB'],
+        github: '#',
+        demo: 'https://myfamilydoctor.io',
+        category: 'Web App'
+    },
+    {
+        id: 2,
         title: 'TravelTube',
         description: 'TravelTube connects travellers with stories, tools, and experiences from across the world.',
         image: '/assets/images/traveltube.png',
@@ -61,7 +71,7 @@ const allProjects = [
         category: 'Web App'
     },
     {
-        id: 2,
+        id: 3,
         title: 'TravelTube Services',
         description: 'Register Your Business on TravelTube Services Platform to Showcase your services to millions of travelers worldwide.',
         image: '/assets/images/services.png',
@@ -71,23 +81,13 @@ const allProjects = [
         category: 'Web App'
     },
     {
-        id: 3,
+        id: 4,
         title: 'TravelTube Restaurants',
         description: 'TravelTube Restaurants is an all-in-one hospitality platform combining QR ordering, POS, and in-restaurant entertainment.',
         image: '/assets/images/restaurant.png',
         technologies: ['Nuxt.js', 'TypeScript', 'Pinia', 'MongoDB'],
         github: '#',
         demo: 'https://restaurants.traveltube.io',
-        category: 'Web App'
-    },
-    {
-        id: 4,
-        title: 'TravelTube Creators',
-        description: 'A platform to upload, manage, and showcase your travel content. Connect with audiences worldwide and grow your creator journey.',
-        image: '/assets/images/creators.png',
-        technologies: ['Nuxt.js', 'TypeScript', 'Pinia', 'MongoDB'],
-        github: '#',
-        demo: 'https://creators.traveltube.io',
         category: 'Web App'
     },
     {
@@ -112,6 +112,16 @@ const allProjects = [
     },
     {
         id: 7,
+        title: 'TravelTube Creators',
+        description: 'A platform to upload, manage, and showcase your travel content. Connect with audiences worldwide and grow your creator journey.',
+        image: '/assets/images/creators.png',
+        technologies: ['Nuxt.js', 'TypeScript', 'Pinia', 'MongoDB'],
+        github: '#',
+        demo: 'https://creators.traveltube.io',
+        category: 'Web App'
+    },
+    {
+        id: 8,
         title: 'MySchool Academy',
         description: 'MySchool Academy is dedicated to making STEM education practical and accessible for African students.',
         image: '/assets/images/schoolacademy.png',
@@ -121,7 +131,7 @@ const allProjects = [
         category: 'Web App'
     },
     {
-        id: 8,
+        id: 9,
         title: 'Largo Integrated',
         description: 'Dynamic Nigerian enterprise offering integrated business solutions across multiple sectors.',
         image: '/assets/images/largo.png',
@@ -131,7 +141,7 @@ const allProjects = [
         category: 'Web App'
     },
     {
-        id: 9,
+        id: 10,
         title: 'QUICK-CART',
         description: 'Multi-vendor e-commerce mobile application for browsing products, managing cart and making purchases.',
         image: '/assets/images/qcImg.png',
@@ -141,7 +151,7 @@ const allProjects = [
         category: 'Mobile'
     },
     {
-        id: 10,
+        id: 11,
         title: 'BLESSED BALES AND BUNDLE',
         description: 'Website designed for customers to shop for Fabrics with an intuitive interface and seamless shopping experience.',
         image: '/assets/images/blessedbb.png',
@@ -151,7 +161,7 @@ const allProjects = [
         category: 'E-commerce'
     },
     {
-        id: 11,
+        id: 12,
         title: 'MoveIt',
         description: 'E-commerce mobile application for browsing and booking car rentals with payment integration.',
         image: '/assets/images/moveit.png',
@@ -161,7 +171,7 @@ const allProjects = [
         category: 'E-commerce'
     },
     {
-        id: 12,
+        id: 13,
         title: 'Med-Equip Solutions',
         description: 'Trusted partner in medical equipment solutions, dedicated to improving healthcare delivery worldwide.',
         image: '/assets/images/med-equip.png',
@@ -171,7 +181,7 @@ const allProjects = [
         category: 'E-commerce'
     },
     {
-        id: 13,
+        id: 14,
         title: 'Rivers Youth Hub',
         description: 'Comprehensive digital platform providing skill development, job placement, and entrepreneurship support.',
         image: '/assets/images/riversyouth-hub.png',
@@ -181,7 +191,7 @@ const allProjects = [
         category: 'Web App'
     },
     {
-        id: 14,
+        id: 15,
         title: 'LOCALBIZ CONNECT',
         description: 'Your go-to online solution for discovering and supporting local businesses in your neighborhood.',
         image: '/assets/images/localbiz.png',
